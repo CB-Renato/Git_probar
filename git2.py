@@ -1,0 +1,4 @@
+print("Renato")
+print("19 años")
+print("Altura: 170cm")
+print("Peso: 70kg")
